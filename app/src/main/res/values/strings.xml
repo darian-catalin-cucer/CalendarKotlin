@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CalendarTask</string>
+    <string name="mealtime">Mealtime</string>
+    <string name="meditating">Meditating Time</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="May2022">May 2022</string>
+    <string name="forward">Next</string>
+    <string name="sun">Sun</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thur">Thur</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="week">Week View</string>
+    <string name="month">Month View</string>
+</resources>
